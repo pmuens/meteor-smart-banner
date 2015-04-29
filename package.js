@@ -10,6 +10,6 @@ Package.onUse(function (api) {
 
     api.addFiles([
       'jquery.smartbanner.css',
-      'jquery.smartbanner.js',
+      'jquery.smartbanner.js'
     ], 'client');
 });
