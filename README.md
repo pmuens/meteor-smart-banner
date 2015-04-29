@@ -1,8 +1,7 @@
 jQuery Smart Banner
 ===================
 
-[Smart Banners][1] are a new feature in iOS 6 to promote apps on the App Store from a website. This jQuery plugin
-brings this feature to older iOS versions, Android devices and for Windows Store apps.
+jQuery Smart Banner from jasny, https://github.com/jasny/jquery.smartbanner, packaged for Meteor.js
 
 ## Usage ##
     <html>
@@ -52,10 +51,3 @@ brings this feature to older iOS versions, Android devices and for Windows Store
       iOSUniversalApp: true // If the iOS App is a universal app for both iPad and iPhone, display Smart Banner to iPad users, too.
       appendToSelector: 'body' //Append the banner to a specific selector
     })
-
-## Contributors
-
-[![Arnold Daniels](https://avatars3.githubusercontent.com/u/100821?v=2&s=64)](https://github.com/jasny)
-[![Thomas De Laet](https://avatars1.githubusercontent.com/u/5644283?v=2&s=64)](https://github.com/delaetthomas)
-
-  [1]: http://developer.apple.com/library/ios/#documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html
