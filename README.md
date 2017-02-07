@@ -4,7 +4,7 @@ jQuery Smart Banner
 jQuery Smart Banner from @jasny, https://github.com/jasny/jquery.smartbanner, packaged for Meteor.js
 
 ## Install ##
-Run meteor add goltfisch:jquery-smart-banner and you can use jQuery Smart Banner on the client.
+Run meteor add goltfisch:smart-banner and you can use jQuery Smart Banner on the client.
 
 ## Usage ##
     <html>
